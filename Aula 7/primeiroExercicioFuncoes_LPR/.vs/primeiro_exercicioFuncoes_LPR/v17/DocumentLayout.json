@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\primeiro_exercicioFuncoes_LPR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BDDC49-265C-4B74-896D-FF7DC61A4161}|primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.vcxproj|D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5BDDC49-265C-4B74-896D-FF7DC61A4161}|primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.vcxproj|solutionrelative:primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "primeiro_exercicioFuncoes_LPR.cpp",
+              "DocumentMoniker": "D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.cpp",
+              "RelativeDocumentMoniker": "primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.cpp",
+              "ToolTip": "D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.cpp*",
+              "RelativeToolTip": "primeiro_exercicioFuncoes_LPR\\primeiro_exercicioFuncoes_LPR.cpp*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T18:34:54.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
