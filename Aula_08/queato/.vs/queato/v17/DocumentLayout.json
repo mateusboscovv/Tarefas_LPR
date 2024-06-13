@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\queato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6C1E09-E27F-421D-B323-6A9CB697225A}|queato\\queato.vcxproj|D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\queato\\queato\\queato.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C6C1E09-E27F-421D-B323-6A9CB697225A}|queato\\queato.vcxproj|solutionrelative:queato\\queato.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queato.cpp",
+              "DocumentMoniker": "D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\queato\\queato\\queato.cpp",
+              "RelativeDocumentMoniker": "queato\\queato.cpp",
+              "ToolTip": "D:\\Atividades\\Arquivos_Software\\ETE\\Linguagem de programa\u00E7\u00E3o\\queato\\queato\\queato.cpp",
+              "RelativeToolTip": "queato\\queato.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T00:18:44.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

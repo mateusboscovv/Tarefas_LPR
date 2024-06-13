@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "leitor_automatico_aula_08/1.0.0": {
+        "runtime": {
+          "leitor_automatico_aula_08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "leitor_automatico_aula_08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
